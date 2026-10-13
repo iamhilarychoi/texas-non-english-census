@@ -1,7 +1,7 @@
 # Non-English Speaking Rate by State: Where Does Texas Rank?
 
 **텍사스는 집에서 영어 외 언어를 쓰는 인구 비율이 미국 52개 지역 중 몇 위일까?** 
-US Census 공개 데이터(2024 ACS 5-Year, Table B16001)를 R로 정제·분석·시각화한 UT Austin 데이터 분석 수업 텀 프로젝트입니다. 결과는 **3위(35.09%)**입니다.
+US Census 공개 데이터(2024 ACS 5-Year, Table B16001)를 R로 정제·분석·시각화한 UT Austin 데이터 분석 수업 텀 프로젝트입니다. 결과는 3위(35.09%)입니다.
 
 Term project for the Data Analytics (Big Data & Data Mining) course, UT Austin Summer 2026 — Group 10: Seohyun Choi, Zitong Zhu.
 
